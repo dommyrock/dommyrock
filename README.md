@@ -1,16 +1,23 @@
 ### Hi there 👋
+I am Dom, I sometimes code here on earth
 
-<!--
-**dommyrock/dommyrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  I enjoy building things with ...
 
-Here are some ideas to get you started:
+  <a href="https://www.rust-lang.org/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/rust.svg" alt="Rust" style="vertical-align:top; margin:4px">
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg" alt="Python" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://golang.org/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/go.svg" alt="GoLang" style="vertical-align:top; margin:4px">
+  </a>
+  
+##### Besides those I enjoy many other scripting and networking tools as well as solving distributed systems problems...
+---
+### 📫 How to reach me: 
+<a href="https://www.linkedin.com/in/dominik-polzer-hi-o/">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
+</a>
