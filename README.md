@@ -1,5 +1,6 @@
 ### Hi there 👋
-I am Dom, I sometimes code here on earth
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=10000&color=00F78D&background=FFFFFF00&vCenter=true&width=435&lines=I'm+Dom,+I+sometimes+code+here+on+earth)](https://git.io/typing-svg)
+
 
 ###  I enjoy building things with ...
 
