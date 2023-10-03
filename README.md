@@ -16,7 +16,6 @@
   
 ##### Besides those I enjoy many other scripting and networking tools as well as solving distributed systems problems...
 ---
-### 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/dominik-polzer-hi-o/">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
 </a>
