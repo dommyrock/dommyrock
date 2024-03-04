@@ -14,8 +14,8 @@
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/go.svg" alt="GoLang" style="vertical-align:top; margin:4px">
   </a>
   
-##### Besides those I enjoy many other scripting and networking tools as well as solving distributed systems problems...
----
+##### In combination with scripting and networking tools while solving distributed systems problems...
+
 <a href="https://www.linkedin.com/in/dominik-polzer-hi-o/">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
 </a>
