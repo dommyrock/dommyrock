@@ -13,8 +13,12 @@
   <a href="https://golang.org/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/go.svg" alt="GoLang" style="vertical-align:top; margin:4px">
   </a>
+
+   <a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
+  </a>
   
-##### In combination with scripting and networking tools while solving distributed systems problems...
+##### In combination with scripting, cloud & networking tools while solving systems problems...
 
 <a href="https://www.linkedin.com/in/dominik-polzer-hi-o/">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
