@@ -16,4 +16,4 @@
   
 ##### In combination with scripting, cloud & networking tools while solving Distributed systems problems...
 
-#### Working on final MIT - Applied ML project (Malaria - Blood cell CNN model) 
+##### Working on final MIT - Applied ML project (Malaria - Blood cell CNN model) 
