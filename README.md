@@ -18,4 +18,4 @@
 
 ---
 
-##### Applied DataScience and ML - Project - Malaria detection -Red Blood cell CNN model) 
+##### MIT: Applied DataScience and ML - Project - Malaria detection -Red Blood cell CNN model) [Verify](https://credentials.professional.mit.edu/02bb6f4e-712f-4c45-b361-6a9e40ce03be#acc.VzTrmuLn)
